@@ -8,7 +8,7 @@ import OpenAccount from '../OpenAccount';
 import Navbar from '../Navbar';
 import Footer from '../Footer';
 
-function HomePae() {
+function HomePage() {
     return (  
         <>
         <Navbar/>
@@ -23,4 +23,4 @@ function HomePae() {
     );
 }
 
-export default HomePae;
+export default HomePage;
