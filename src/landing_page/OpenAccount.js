@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Footer() {
+function OpenAccount() {
     return ( 
         <h1>
-            Footer
+            OpenAccount
         </h1>
      );
 }
 
-export default Footer;
+export default OpenAccount;
